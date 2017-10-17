@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+### Welcome to my github page
 
-You can use the [editor on GitHub](https://github.com/tatuanir/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Nir Tatuani. I'm a QA Engineer and also a junior developer.
+I enjoy a challenge and always looking for the next opportunity to expand and learn new skills.
+I am motivated person, looking for my next job.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+2014 – 2017 BSc in Information Technology, The Academic College of Tel Aviv-Yaffo.
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Computer applications knowledge
+## Programming Languages
 
-# Header 1
-## Header 2
-### Header 3
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
 
-- Bulleted
-- List
+### Backend
+- Java
+- PHP
+- MySQL
 
-1. Numbered
-2. List
+### Scripting
+- Python
+- Shell\Bash
 
-**Bold** and _Italic_ and `Code` text
+### Machine Learning
+- R
 
-[Link](url) and ![Image](src)
-```
+## QA Skills:
+- Writing automation scripts in Python (including selenium and beutifulsoup), Shell.
+- Solid understanding of Android testing environment.
+- Providing STD, STP and STR doctumentions.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tatuanir/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Download CV](https://drive.google.com/file/d/0B3UuZDiXTnA8OFdUNTVvbl9vdEk/view?usp=sharing)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Contact me](nir.tatu@gmail.com)
