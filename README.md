@@ -11,24 +11,23 @@ I am motivated person, looking for my next job.
 
 
 ```markdown
-# Computer applications knowledge
-## Programming Languages
+**Programming Languages**
 
-### Frontend
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript
 
-### Backend
+**Backend**
 - Java
 - PHP
 - MySQL
 
-### Scripting
+**Scripting**
 - Python
 - Shell \ Bash
 
-### Machine Learning
+**Machine Learning**
 - R
 
 ## QA Skills:
