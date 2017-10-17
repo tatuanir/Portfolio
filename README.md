@@ -35,7 +35,7 @@ I am motivated person, looking for my next job.
 - Writing automation scripts in Python (including selenium and beutifulsoup), Shell.
 - Solid understanding of Android testing environment.
 - Providing STD, STP and STR doctumentions.
-```markdown
+
 
 
 ### [Download CV](https://drive.google.com/file/d/0B3UuZDiXTnA8OFdUNTVvbl9vdEk/view?usp=sharing)
