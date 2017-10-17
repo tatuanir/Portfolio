@@ -26,7 +26,7 @@ I am motivated person, looking for my next job.
 
 ### Scripting
 - Python
-- Shell\Bash
+- Shell \ Bash
 
 ### Machine Learning
 - R
