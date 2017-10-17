@@ -11,26 +11,26 @@ I am motivated person, looking for my next job.
 
 
 ```markdown
-__Programming Languages__
+**Programming Languages**
 
-### Frontend
+*Frontend*
 * HTML5
 * CSS3
 * JavaScript
 
-### Backend
+*Backend*
 * Java
 * PHP
 * MySQL
 
-### Scripting
+*Scripting*
 * Python
 * Shell \ Bash
 
-### Machine Learning
+*Machine Learning*
 * R
 
-## QA Skills:
+**QA Skills**
 * Writing automation scripts in Python (including selenium and beutifulsoup), Shell.
 * Solid understanding of Android testing environment.
 * Providing STD, STP and STR doctumentions.
