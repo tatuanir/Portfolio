@@ -11,7 +11,7 @@ I am motivated person, looking for my next job.
 
 
 ```markdown
-## Programming Languages
+__Programming Languages__
 
 ### Frontend
 * HTML5
