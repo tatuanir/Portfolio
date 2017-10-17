@@ -31,7 +31,7 @@ I am motivated person, looking for my next job.
 * R
 
 **QA Skills**
-* Writing automation scripts in Python (including selenium and beutifulsoup), Shell.
+* Writing automation scripts in Python (including selenium and beautifulsoup), Shell.
 * Solid understanding of Android testing environment.
 * Providing STD, STP and STR doctumentions.
 
